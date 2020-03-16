@@ -2,9 +2,7 @@ def new_hash
   empty_hash = {}
 end
 
-def actor => {
-  name: "Dwayne The Rock Johnson"
-}
+def actor 
   
 end
 
